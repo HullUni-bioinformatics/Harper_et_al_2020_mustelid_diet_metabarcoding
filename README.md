@@ -57,8 +57,8 @@ This will download the metaBEAT image (if not yet present on your computer) and 
 Raw illumina data has been deposited on the NCBI SRA:
 - Study: 
 - BioProject: 
-- BioSample accessions:  (Library 1) and  (Library 2)
-- SRA accessions:  (Library 1) and  (Library 2)
+- BioSample accessions:  
+- SRA accessions:  
 
 
 The sample specific accessions can be found [here](https://github.com/HullUni-bioinformatics/Harper_et_al_2020_mustelid_diet_metabarcoding/tree/master/Data/Sample_accessions.tsv). Before following the workflow for data processing, you'll need to download the raw reads from the SRA. To download the raw read data, you can follow the steps in this [Jupyter notebook](https://github.com/HullUni-bioinformatics/Harper_et_al_2020_mustelid_diet_metabarcoding/tree/master/raw_reads/How_to_download_from_SRA.ipynb).
