@@ -19,7 +19,7 @@ Taxonomic assignment results [(here)](https://github.com/HullUni-bioinformatics/
 
 R scripts used to analyse metaBEAT output and produce figures [(here)](https://github.com/HullUni-bioinformatics/Harper_et_al_2020_mustelid_diet_metabarcoding/tree/master/R_scripts)
 
-Sample metadata needed to run analyses in R [(here)](https://github.com/HullUni-bioinformatics/Harper_et_al_2020_mustelid_diet_metabarcoding/tree/master/Data/Sample_Metadata)
+Sample metadata needed to run analyses in R [(here)](https://github.com/HullUni-bioinformatics/Harper_et_al_2020_mustelid_diet_metabarcoding/tree/master/Data/Sample_metadata)
 
 
 ## Instructions to set up dependencies for data processing and analyses
