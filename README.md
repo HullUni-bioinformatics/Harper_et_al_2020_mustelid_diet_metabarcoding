@@ -15,7 +15,7 @@ Notebooks to run metaBEAT pipeline [(here)](https://github.com/HullUni-bioinform
 
 NCBI Sequence Read Archive (SRA) accession numbers for raw Illumina data [(here)](https://github.com/HullUni-bioinformatics/Harper_et_al_2020_mustelid_diet_metabarcoding/tree/master/Data/Sample_accessions.tsv)
 
-Taxonomic assignment results [(here)](https://github.com/HullUni-bioinformatics/Harper_et_al_2020_mustelid_diet_metabarcoding/tree/master/Data/Taxonomic_Assignment_Results)
+Taxonomic assignment results [(here)](https://github.com/HullUni-bioinformatics/Harper_et_al_2020_mustelid_diet_metabarcoding/tree/master/Data/Taxonomic_assignment_results)
 
 R scripts used to analyse metaBEAT output and produce figures [(here)](https://github.com/HullUni-bioinformatics/Harper_et_al_2020_mustelid_diet_metabarcoding/tree/master/R_scripts)
 
