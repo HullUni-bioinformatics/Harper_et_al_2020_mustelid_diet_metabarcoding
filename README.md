@@ -56,7 +56,7 @@ This will download the metaBEAT image (if not yet present on your computer) and 
 
 Raw illumina data has been deposited on the NCBI SRA:
 - Study: 
-- BioProject: 
+- BioProject: PRJNA644190
 - BioSample accessions:  
 - SRA accessions:  
 
