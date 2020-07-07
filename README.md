@@ -57,7 +57,7 @@ This will download the metaBEAT image (if not yet present on your computer) and 
 Raw illumina data has been deposited on the NCBI SRA:
 - Study: 
 - BioProject: PRJNA644190
-- BioSample accessions:  
+- BioSample accessions: SAMN15452877-SAMN15453005 (Library 1) and SAMN15455442-SAMN15455596 (Library 2)
 - SRA accessions:  
 
 
