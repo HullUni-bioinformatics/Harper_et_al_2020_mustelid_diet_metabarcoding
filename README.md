@@ -55,10 +55,10 @@ This will download the metaBEAT image (if not yet present on your computer) and 
 ## Data processing workflow as Jupyter notebooks
 
 Raw illumina data has been deposited on the NCBI SRA:
-- Study: 
+- Study: SRP270831
 - BioProject: PRJNA644190
 - BioSample accessions: SAMN15452877-SAMN15453005 (Library 1) and SAMN15455442-SAMN15455596 (Library 2)
-- SRA accessions:  
+- SRA accessions: SRR12168859-SRR12168984 (Library 1) and (Library 2)
 
 
 The sample specific accessions can be found [here](https://github.com/HullUni-bioinformatics/Harper_et_al_2020_mustelid_diet_metabarcoding/tree/master/Data/Sample_accessions.tsv). Before following the workflow for data processing, you'll need to download the raw reads from the SRA. To download the raw read data, you can follow the steps in this [Jupyter notebook](https://github.com/HullUni-bioinformatics/Harper_et_al_2020_mustelid_diet_metabarcoding/tree/master/raw_reads/How_to_download_from_SRA.ipynb).
