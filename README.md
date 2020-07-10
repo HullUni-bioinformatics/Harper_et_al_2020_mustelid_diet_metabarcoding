@@ -4,7 +4,7 @@ Data processing workflow and supplementary data for:
 
 Harper *et al.* (2020) DNA metabarcoding shows strong potential for investigating diet and niche partitioning in the native European otter (*Lutra lutra*) and invasive American mink (*Neovison vison*) 
 
-Permanently archived at: 
+Permanently archived at: [![DOI](https://zenodo.org/badge/276619017.svg)](https://zenodo.org/badge/latestdoi/276619017)
 
 
 ## Contents
